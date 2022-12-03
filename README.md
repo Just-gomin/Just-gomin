@@ -3,9 +3,9 @@
 <br>
 
 ## Please Visit My Notion
-⇨ [Profile]([https://dorakang612.notion.site/Kangmin-An-_-The-Trouble-Shooter-13481f178915407882e54aa7d29943a3](https://just-gomin.notion.site/Just_gomin-Kangmin-An-13481f178915407882e54aa7d29943a3))
+⇨ [Profile](https://just-gomin.notion.site/Just_gomin-Kangmin-An-13481f178915407882e54aa7d29943a3)
 
-⇨ [Study Archive]([https://dorakang612.notion.site/Become-a-Troubleshooter-1a69ddb837484ecdbbb7a5d1af8aba5d](https://just-gomin.notion.site/Just_gomin-Tech-Notes-1a69ddb837484ecdbbb7a5d1af8aba5d))
+⇨ [Study Archive](https://just-gomin.notion.site/Just_gomin-Tech-Notes-1a69ddb837484ecdbbb7a5d1af8aba5d)
 
 
 ## Who am I?
@@ -41,6 +41,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Back-End**
+<br>
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
